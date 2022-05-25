@@ -1,0 +1,14 @@
+2022-05-22/09:35:54		Start of Validation on files!!
+2022-05-22/09:35:57		Raw Data Validation Complete!!
+2022-05-22/09:35:57		Starting Data Transforamtion!!
+2022-05-22/09:35:59		DataTransformation Completed!!!
+2022-05-22/09:35:59		Creating Training_Database and tables on the basis of given schema!!!
+2022-05-22/09:36:01		Table creation Completed!!
+2022-05-22/09:36:01		Insertion of Data into Table started!!!!
+2022-05-22/09:36:05		Insertion in Table completed!!!
+2022-05-22/09:36:05		Deleting Good Data Folder!!!
+2022-05-22/09:36:05		Good_Data folder deleted!!!
+2022-05-22/09:36:05		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-05-22/09:36:05		Bad files moved to archive!! Bad folder Deleted!!
+2022-05-22/09:36:05		Validation Operation completed!!
+2022-05-22/09:36:05		Extracting csv file from table
